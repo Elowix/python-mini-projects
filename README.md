@@ -72,7 +72,8 @@ To get started with the projects in this repository, follow these steps:
 
 ## Contributing  
 
-Contributions are welcome! If you have ideas for new projects or improvements to existing ones, feel free to fork the repository and submit a pull request. Please ensure that your contributions align with the project's goals.  
+We welcome contributions to this repository! If you have ideas for new projects or improvements to existing ones, feel free to fork the repository and submit a pull request. Please ensure that your contributions align with the project's goals.   
+Your contributions are greatly appreciated!
 
 ## License  
 
