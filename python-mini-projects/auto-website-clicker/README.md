@@ -46,7 +46,3 @@ cd cookie-clicker-automation</code></pre>
     <li>You may need to adjust the <code>WebDriverWait</code> timeouts depending on your internet speed and system performance.</li>
     <li>Make sure the game is fully loaded before running the script to ensure it functions correctly.</li>
 </ul>
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
