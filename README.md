@@ -9,7 +9,7 @@
     <tbody>  
         <tr>  
             <td>1</td>  
-            <td><a href="https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello">pc gaems scraper</a></td>  
+            <td><a href="https://github.com/Erfan-0/python-mini-projects/tree/main/python-mini-projects/pc-games-scraper">pc gaems scraper</a></td>  
             <td><a href="https://github.com/chavarera">Erfan-0</a></td>  
         </tr>  
         <tr>  
