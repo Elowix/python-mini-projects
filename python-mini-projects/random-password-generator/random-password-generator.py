@@ -1,4 +1,4 @@
-# TBA: add limitation for output
+# TBA: limitation for output
 
 import random  
 
