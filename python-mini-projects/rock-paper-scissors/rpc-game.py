@@ -1,13 +1,3 @@
-# class player tarif mikonim + kole kar haee ke bayad bokone(inpute...)
-# class computer baraye kolle kar haee ke computer bayad bokone(entekhab(s,k,gh))
-
-# class moghayese baraye shart ha va taein kardane iinke dar che soorat yek plr barande hast
-# def start barate tmamiye chiz haee ke bayad print beshan va mohasebati ke faghat marboot be khorooje hastan
-
-# TBA (Conditionals...)
-# (["Rock", "Paper", "scissors"])
-
-
 import random
 
 class Player:
