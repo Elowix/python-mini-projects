@@ -33,17 +33,14 @@ class Game:
             return "computer win"
 
 
-    def start(self):
-        print('game started!')
-        player_choice = self.player.choose()
-        computer_choice = self.computer.choose()
-        print(f"entekhabe computer: {computer_choice}")
-        result = self.conditioanl(player_choice, computer_choice)
-        print(result)
+def start(self):
+    print('game started!')
+    player_choice = self.player.choose()
+    computer_choice = self.computer.choose()
+    print(f"entekhabe computer: {computer_choice}")
+    #TBA: result...                    
+                
+                
 
- 
-if __name__ == "__main__":  
-    game = Game()  
-    game.player = Player()  
-    game.computer = Computer()  
-    game.start()  
+            
+        
