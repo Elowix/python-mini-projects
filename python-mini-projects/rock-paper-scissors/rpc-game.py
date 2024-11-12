@@ -76,6 +76,8 @@ def compare(userg, pcg):
         user_joon += 1  
         return 'user barande shod!'  
 
+
+
 match = int(input('chand dast mikhay bazi koni?: '))  
 
 pc_joon = 0  
@@ -88,13 +90,12 @@ for i in range(match):
     pcg = random.choice(skgh)  
     print(f'pc choice: {pcg}')  
     
-    result = compare(userg, pcg) # Call the function here  
+    result = compare(userg, pcg) 
 
-# Print final scores  
 print(f'user rank: {user_joon}')  
 print(f'pc rank: {pc_joon}')  
 
-# Final output based on the result  
+
 if result == 'pc barande shod!':  
     print('pc barande shod!')  
 elif result == 'user barande shod!':  
@@ -103,8 +104,9 @@ elif user_joon == pc_joon:
     print('mosavi!')  
 elif user_joon > pc_joon:  
     print('user barande shod!')  
-else:  
-    print('pc barande shod!')        
+elif user_joon < pc_joon:
+    print('pc barande shod!')
+
 
 
 
