@@ -35,7 +35,7 @@
          <tr>  
             <td>4</td>  
             <td><a href="https://github.com/Erfan-0/python-mini-projects">Every idea is valuable! Let’s fill this list together</a></td>  
-            <td><a href="https://github.com/Erfan-0/python-mini-projects">You</a></td>  
+            <td><a href="https://github.com/Erfan-0/python-mini-projects">You?</a></td>  
         </tr>
         <tr>  
             <td>5</td>  
