@@ -8,6 +8,7 @@ if chbr == 0:
 
 plrname = None
 plrname_list = []
+
 while plrname != 'end':
         plrname = input('Enter the name: ')
 
@@ -17,9 +18,9 @@ while plrname != 'end':
         
         plrname_list.append(plrname)
 
-        for plrname in plrname_list:
-                 plrname_list.remove(plrname)
-                 print('iin name ghablan boode')
+        # while plrname in plrname_list:
+        #          plrname_list.remove(plrname)
+        #          print('this name has been already been added')
     
         if plrname == '':
                plrname_list.remove('')
@@ -30,6 +31,9 @@ while plrname != 'end':
 for i in range(chbr):
     chplr = random.choice(plrname_list)
     print(f'Winner of lottery number {i+1}: {chplr}')
+
+
+
 
 
 
