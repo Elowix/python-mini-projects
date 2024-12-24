@@ -28,20 +28,15 @@
             <td><a href="https://github.com/Erfan-0/python-mini-projects">Erfan-0</a></td>  
         </tr>
         <tr>  
-            <td>4</td>  
+            <td>5</td>  
             <td><a href="https://github.com/Erfan-0/python-mini-projects/tree/main/python-mini-projects/lottery">Lottery</a></td>  
             <td><a href="https://github.com/Erfan-0/python-mini-projects">Erfan-0</a></td>  
         </tr>
          <tr>  
-            <td>4</td>  
+            <td>6</td>  
             <td><a href="https://github.com/Erfan-0/python-mini-projects">Every idea is valuable! Let’s fill this list together</a></td>  
             <td><a href="https://github.com/Erfan-0/python-mini-projects">You?</a></td>  
         </tr>
-        <tr>  
-            <td>5</td>  
-            <td><a href=""></a></td>  
-            <td><a href=""></a></td>  
-        </tr>  
         <tr>  
     </tbody>  
 </table>
