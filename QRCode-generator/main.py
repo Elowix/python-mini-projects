@@ -20,6 +20,7 @@ qr.make(fit=True)
 img = qr.make_image(fill_color='black', back_color='white')
 if add_logo == 'yes':
     logo_path = input('enter the path to your logo image: ').strip()
+    file_format = logo_path[-3:]
     logo_size_input = (input('enter the logo size (press Enter = default = 130): ').strip())
 
     if os.path.exists(logo_path):
@@ -43,12 +44,12 @@ if add_logo == 'yes':
 
         img.paste(logo, logo_position, logo)
     else:
-        print('logo file not found, the process is runnig without a logof')
+        print('logo file not found, the process is runnig without a logo')
 
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 
-output_path = os.path.join(current_directory, 'qrcode.png')
+output_path = os.path.join(current_directory, f"my_qrcode.{file_format}")
 img.save(output_path)
 
 print(f"QR code saved as: '{output_path}'")
