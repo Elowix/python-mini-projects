@@ -1,41 +1,46 @@
 <table>  
     <thead>  
         <tr>  
-            <th>SR No</th>  
+            <th>Num</th>  
             <th>Project</th>  
             <th>Author</th>  
         </tr>  
     </thead>  
     <tbody>  
+        <tr>
         <tr>  
-            <td>1</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/auto-website-clicker">Auto Website Clicker</a></td>  
+            <td>7</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects">Every idea is valuable! Let’s fill this list together</a></td>  
+            <td><a href="https://github.com/ELowix/python-mini-projects">You?</a></td>  
+        </tr>
+            <td>6</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/QRCode-generator">QR Code Generator</a></td>  
             <td><a href="https://github.com/Elowix">Elowix</a></td>  
         </tr>  
         <tr>  
-            <td>2</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/pc-games-scraper">PC Games Scraper</a></td>  
-            <td><a href="https://github.com/Elowix">Elowix</a></td>  
-        </tr>  
-        <tr>  
-            <td>3</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/random-password-generator">Rndom Password Generator</a></td>  
+            <td>5</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/auto-website-clicker">Auto Website Clicker</a></td>  
             <td><a href="https://github.com/Elowix">Elowix</a></td>  
         </tr>  
         <tr>  
             <td>4</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/rock-paper-scissors">Rock Paper Scissors</a></td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/lottery">Lottery</a></td>  
+            <td><a href="https://github.com/Elowix">Elowix</a></td>  
+        </tr>  
+        <tr>  
+            <td>3</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/pc-games-scraper">PC Games Scraper</a></td>  
             <td><a href="https://github.com/Elowix/python-mini-projects">Elowix</a></td>  
         </tr>
         <tr>  
-            <td>5</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/lottery">Lottery</a></td>  
+            <td>2</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/random-password-generator">Random Password Generator</a></td>  
             <td><a href="https://github.com/Elowix/python-mini-projects">Elowix</a></td>  
         </tr>
-         <tr>  
-            <td>6</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects">Every idea is valuable! Let’s fill this list together</a></td>  
-            <td><a href="https://github.com/ELowix/python-mini-projects">You?</a></td>  
+                <tr>  
+            <td>1</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/rock-paper-scissors">Rock Paper Scissors</a></td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects">Elowix</a></td>  
         </tr>
         <tr>  
     </tbody>  
