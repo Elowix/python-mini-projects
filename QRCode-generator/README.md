@@ -22,13 +22,10 @@ If you're not using a virtual machine and don't have the `requirements.txt` file
 pip install qrcode[pil] pillow
 ```
 
-## How to Use 🚀
+## The output will look like this:
 
-1. Run the script.
-2. Enter the URL or text you want to generate the QR code for.
-3. Choose whether you want to add a logo to the QR code (yes/no).
-4. If "yes," enter the logo's path and size.
-5. The script will generate the QR code and save it in the current directory. 📂
+https://ibb.co/cCVhMJ9
+
 
 ## Features ✨
 
@@ -37,6 +34,14 @@ pip install qrcode[pil] pillow
 - Output file retains the same extension as the input format.
 - Ability to adjust the logo size to fit nicely in the center of the QR code.
 - Saves the final QR code as an image file in the current directory.
+
+## How to Use 🚀
+
+1. Run the script.
+2. Enter the URL or text you want to generate the QR code for.
+3. Choose whether you want to add a logo to the QR code (yes/no).
+4. If "yes," enter the logo's path and size.
+5. The script will generate the QR code and save it in the current directory. 📂
 
 ## Recommendations 🔧
 
