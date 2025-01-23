@@ -1,7 +1,7 @@
 <table>  
     <thead>  
         <tr>  
-            <th>Num/th>  
+            <th>Num</th>  
             <th>Project</th>  
             <th>Author</th>  
         </tr>  
