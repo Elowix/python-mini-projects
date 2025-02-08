@@ -14,6 +14,11 @@
             <td><a href="https://github.com/Elowix/python-mini-projects">Every idea is valuable! Let’s fill this list together</a></td>  
             <td><a href="https://github.com/Elowix/python-mini-projects">You?</a></td>  
         </tr>
+        </tr> 
+            <td>5</td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/auto-website-clicker">PC Game Scraper</a></td>  
+            <td><a href="https://github.com/Elowix">Elowix</a></td>  
+        </tr>  
             <td>6</td>  
             <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/QRCode-generator">QR Code Generator with Logo</a></td>  
             <td><a href="https://github.com/Elowix-0">Elowix</a></td>  
