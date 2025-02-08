@@ -16,7 +16,7 @@
         </tr>
         </tr> 
             <td>5</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/auto-website-clicker">PC Game Scraper</a></td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/pc-games-scraper">PC Game Scraper</a></td>  
             <td><a href="https://github.com/Elowix">Elowix</a></td>  
         </tr>  
             <td>6</td>  
