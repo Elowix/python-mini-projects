@@ -44,7 +44,7 @@
         </tr>
         <tr>  
             <td>1</td>  
-            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/lottery">Lottery</a></td>  
+            <td><a href="https://github.com/Elowix/python-mini-projects/tree/main/python-mini-projects/lottery">Not Available</a></td>  
             <td><a href="https://github.com/Elowix/python-mini-projects">Elowix</a></td>
         </tr>
         </tr>
